@@ -23,5 +23,6 @@ footer{
     color: var(--destaque);
     width: 100%;
     text-align: center;
+    padding: 15px;
     font-weight: 600;
 }
