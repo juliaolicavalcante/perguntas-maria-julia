@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --fundo:#FD9856     ;
+    --cartao-frent:#D162A3;
+    --cartao-verso:#A30161;
+    --destaque:#D52C01;
+    --preto:#000;
+    --branco:#ffff;
+}
+
