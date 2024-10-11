@@ -26,3 +26,7 @@ footer{
     padding: 15px;
     font-weight: 600;
 }
+
+#container{
+    display: flex;
+}
