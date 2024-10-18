@@ -72,4 +72,6 @@ footer{
 
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
+    position: absolute;
+    
 }
