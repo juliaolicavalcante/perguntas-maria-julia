@@ -41,3 +41,8 @@ footer{
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
+
+.conteudo-cartao{
+    background-color: var(--cartao-frent);
+    margin: 2rem;
+}
