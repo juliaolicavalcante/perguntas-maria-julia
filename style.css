@@ -44,5 +44,6 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cartao-frent);
-    margin: 2rem;
+    text-align: center;
+    height: 100%;
 }
