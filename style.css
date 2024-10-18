@@ -53,6 +53,6 @@ footer{
     text-align: left;
     border: 1px solid var(--destaque);
     border-radius: 20px;
-    margin-left: 0.6rem;
+    margin: 0.6rem;
     padding: 0.6rem;
 }
