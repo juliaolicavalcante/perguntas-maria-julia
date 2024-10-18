@@ -64,5 +64,5 @@ footer{
 }
 
 .cartao:hover .conteudo-cartao{
-    transform: rotateZ(180deg);
+    transform: rotateX(180deg);
 }
