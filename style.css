@@ -80,4 +80,5 @@ footer{
 
 .resposta-cartao{
     transform: rotateY(180deg);
+    font-size: bold;
 }
