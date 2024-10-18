@@ -64,6 +64,7 @@ footer{
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4vw;
+    border-radius: 20px;
 }
 
 .cartao:hover .conteudo-cartao{
