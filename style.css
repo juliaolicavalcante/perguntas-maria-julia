@@ -16,6 +16,11 @@ body{
     background-color: var(--fundo);
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 footer{
     background-color: var(--branco);
     position: fixed;
