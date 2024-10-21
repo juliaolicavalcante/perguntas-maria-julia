@@ -44,4 +44,6 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cartao-frent);
+    padding: 40px;
+    border-radius: 20px;
 }
