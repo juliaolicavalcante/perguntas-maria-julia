@@ -47,3 +47,7 @@ footer{
     padding: 40px;
     border-radius: 20px;
 }
+
+.conteudo-cartao:hover{
+    transform: scale(1.0);
+}
