@@ -47,6 +47,7 @@ footer{
     padding: 40px;
     border-radius: 20px;
     transition: transform 0.2s;
+    box-shadow: 2px 2px 2px var(--preto);
 }
 
 .conteudo-cartao:hover{
