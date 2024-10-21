@@ -54,9 +54,11 @@ footer{
     transform: scale(1.02);
 }
 
-.resposta.cartao{
+.resposta-cartao{
     background-color: var(--cartao-verso);
     padding: 2rem;
-    text-align: center;
+    text-align:center;
+    margin-top: 2rem;
+    color: var(--branco);
+    display: none;
 }
-
