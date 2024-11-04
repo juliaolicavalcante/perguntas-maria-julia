@@ -19,9 +19,8 @@ container.appendChild(cartao);
 
 function mostraResposta(card){
     const resposta = card.querySelector('.resposta-cartao')
-    if(resposta.computedStyleMap.display === 'none'){
+    if(resposta.style.display === 'none'){
         resposta.style.display = 'block'
-
     }
     else{
         resposta.style.display = 'none'

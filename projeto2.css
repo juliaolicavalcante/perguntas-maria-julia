@@ -48,7 +48,9 @@ footer{
     border-radius: 20px;
     transition: transform 0.2s;
     box-shadow: 2px 2px 2px var(--preto);
+    cursor: pointer;
 }
+
 
 .conteudo-cartao:hover{
     transform: scale(1.02);
